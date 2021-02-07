@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+*.txt
+test.py
+my_dataset.py
+install.sh
