@@ -1,6 +1,7 @@
 __pycache__
 .vscode
-*.txt
+hello.txt
+hello1.txt
 test.py
 my_dataset.py
 install.sh
